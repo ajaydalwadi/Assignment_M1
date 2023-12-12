@@ -1,1 +1,1 @@
-# Assignment_M1
+# Assignment_M1_fundamentals this assignment incudes the basic fundamental of manual testing. it consists basic concepts like: Software testing,manual/automation testing,why testing necessary, testing activities, testing objectives, when to start&stop testing, 7 keys principles, software architecture, SDLC & phases, SRS, Models: waterfall model, v-model, iterative/incremental model, spiral model, agile model, use-case diagram,OOP concepts.
